@@ -1,4 +1,4 @@
-👋 Hi, I’m @djdemers  
+## 👋 Hi, I’m @djdemers  
 🎓 Software Engineering Graduate | ASU 2025
 💻 Passionate about Software Development, Cybersecurity, and AI  
 
@@ -29,7 +29,7 @@ He/Him
 ⚡ Fun fact:  
 I enjoy breaking things to see how they work (ethically, of course! 🔒).  
 
-Pinned Projects  
+## Pinned Projects  
 1️⃣ Dungeons & Dragons Database Manager
 Tech Stack: Java, JavaFX, MySQL, Gradle  
 

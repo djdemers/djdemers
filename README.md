@@ -21,7 +21,7 @@
 📫 How to reach me...  
 ✉ Email: djdemers@asu.edu
 💼 LinkedIn: www.linkedin.com/in/david-de-mers-1222b334a
-🚀 Portfolio/GitHub Projects: Your GitHub Profile  
+🚀 Portfolio/GitHub Projects: https://github.com/djdemers/djdemers.git  
 
 😄 Pronouns:  
 He/Him     

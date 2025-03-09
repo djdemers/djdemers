@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @djdemers  
+## 👋 Hi, I’m David DeMers 
 🎓 Software Engineering Graduate | ASU 2025
 💻 Passionate about Software Development, Cybersecurity, and AI  
 
